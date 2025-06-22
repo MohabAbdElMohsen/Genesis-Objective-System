@@ -1,9 +1,9 @@
 {
-    "name": "com.genesis.ark.objectivesystem",
-    "displayName": "ARK Objective System",
+    "name": "com.genesis.objectivesystem",
+    "displayName": "Genesis Objective System",
     "version": "1.0.0",
     "unity": "2020.3",
-    "description": "A custom objective system for managing objectives in ARK platform.",
+    "description": "A custom objective system for managing objectives in your app.",
     "author": {
       "name": "Genesis Creations S.A.E",
       "email": "mohab.abdelmohsen@genesiscreations.co",
@@ -14,9 +14,5 @@
       "Objective System"
     ],
     "category": "Objective System",
-    "hideInEditor": false,
-
-    "dependencies": {
-    "com.mohab.packagea": "https://github.com/mohab-dev/package-a.git#v1.0.0"
-  }
+    "hideInEditor": false
 }
